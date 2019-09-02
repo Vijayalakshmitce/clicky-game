@@ -1,0 +1,22 @@
+.navbar {
+    height: 100px;
+    background: green;
+    position: fixed;
+    width: 97.6%;
+    padding: 10px;
+}
+
+li {
+
+
+    font-size: 20px;
+    justify-content: space-around;
+    display: inline-block;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bolder;
+    left: 5px;
+    color: black;
+}
