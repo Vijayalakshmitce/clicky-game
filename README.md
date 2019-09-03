@@ -20,3 +20,6 @@ Once the user's score is reset after an incorrect guess, the game should restart
 
 screenshot:
 
+![screencapture-thawing-lowlands-30307-herokuapp-2019-09-03-18_37_48](https://user-images.githubusercontent.com/49068436/64213205-14b13300-ce7a-11e9-8fff-3ca0f71b2d47.png)
+
+
